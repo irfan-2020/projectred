@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>App Component</h1>
       <h1>ProjectRed</h1>
+      <h1>Git Hub practice</h1>
       <User data={{name:"rafan",age:1,address:"Hingoli"}} />
     </div>
   );
