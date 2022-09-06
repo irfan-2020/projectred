@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>App Component</h1>
-      jhyfjnmvb
+      <h1>ProjectRed</h1>
       <User data={{name:"rafan",age:1,address:"Hingoli"}} />
     </div>
   );
